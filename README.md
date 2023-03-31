@@ -1,7 +1,7 @@
 ## 👋 Hi, Welcome to Github page!
 
 ## About me
-- Just kid who makes FiveM scripts D:
+- Just kid who makes FiveM scripts xd
 ## Languages
 - 📜 LUA
 - 📜 Javascript | learning
