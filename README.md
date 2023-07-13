@@ -1,9 +1,1 @@
-## 👋 Hi, Welcome to Github page!
-
-## About me
-- Just kid who makes FiveM scripts xd
-## Languages
-- 📜 LUA
-- 📜 Javascript | learning
-## How to reach me?
-**Discord:** 0tto#3949
+**Discord:** 0tto#3949 / 0ttoo#0
